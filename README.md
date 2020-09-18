@@ -3,6 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/shaw71nc?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FShaw-71nc&screen_name=Shaw_71nc)
 
 ## I'm a Data scientist!
+# I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Python, C++, Plotly-Dash, PyTorch, and AWS. I am actively looking for opportunities in Data Science. Recently, I have just started with tech-blogging!
 
 - 🔭 I’m currently working on a [Data science project][website]!
 - 🌱 I’m currently learning everything 🤣
@@ -29,7 +30,7 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"  />][webdevplaylist]
 
 <br />
 <br />
