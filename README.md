@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/shaw71nc?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FShaw-71nc&screen_name=Shaw_71nc)
 
 ## I'm a Data scientist!
- I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Python, C++, Plotly-Dash, PyTorch, and AWS. I am actively looking for opportunities in Data Science.
+ I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Python, Pandas, Numpy, scikit-learn, Matplotlib, Plotly-Dash, PyTorch. I am actively looking for opportunities in Data Science.
 
 - 🔭 I’m currently working on a [Data science project][website]!
 - 🌱 I’m currently learning everything 🤣
@@ -24,7 +24,6 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
